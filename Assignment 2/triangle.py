@@ -1,4 +1,3 @@
-
 A = float(input("Enter the length of side A: "))
 B = float(input("Enter the length of side B: "))
 C = float(input("Enter the length of side C: "))
